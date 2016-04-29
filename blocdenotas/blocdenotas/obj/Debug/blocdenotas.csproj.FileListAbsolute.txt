@@ -1,0 +1,12 @@
+\\vmware-host\Shared Folders\Dropbox (Personal)\DAW1\Programacion\visual\BlocDeNotas\blocdenotas\blocdenotas\bin\Debug\blocdenotas.exe.config
+\\vmware-host\Shared Folders\Dropbox (Personal)\DAW1\Programacion\visual\BlocDeNotas\blocdenotas\blocdenotas\bin\Debug\blocdenotas.exe
+\\vmware-host\Shared Folders\Dropbox (Personal)\DAW1\Programacion\visual\BlocDeNotas\blocdenotas\blocdenotas\bin\Debug\blocdenotas.pdb
+\\vmware-host\Shared Folders\Dropbox (Personal)\DAW1\Programacion\visual\BlocDeNotas\blocdenotas\blocdenotas\obj\Debug\blocdenotas.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Dropbox (Personal)\DAW1\Programacion\visual\BlocDeNotas\blocdenotas\blocdenotas\obj\Debug\blocdenotas.Form1.resources
+\\vmware-host\Shared Folders\Dropbox (Personal)\DAW1\Programacion\visual\BlocDeNotas\blocdenotas\blocdenotas\obj\Debug\blocdenotas.Properties.Resources.resources
+\\vmware-host\Shared Folders\Dropbox (Personal)\DAW1\Programacion\visual\BlocDeNotas\blocdenotas\blocdenotas\obj\Debug\blocdenotas.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Dropbox (Personal)\DAW1\Programacion\visual\BlocDeNotas\blocdenotas\blocdenotas\obj\Debug\blocdenotas.exe
+\\vmware-host\Shared Folders\Dropbox (Personal)\DAW1\Programacion\visual\BlocDeNotas\blocdenotas\blocdenotas\obj\Debug\blocdenotas.pdb
+C:\Users\Pablo\Dropbox (Personal)\DAW1\Programacion\visual\BlocDeNotas\blocdenotas\blocdenotas\bin\Debug\blocdenotas.exe.config
+C:\Users\Pablo\Dropbox (Personal)\DAW1\Programacion\visual\BlocDeNotas\blocdenotas\blocdenotas\obj\Debug\blocdenotas.exe
+C:\Users\Pablo\Dropbox (Personal)\DAW1\Programacion\visual\BlocDeNotas\blocdenotas\blocdenotas\obj\Debug\blocdenotas.pdb
